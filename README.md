@@ -29,6 +29,3 @@ The network scales inputs dynamically using Min-Max scaling to ensure fast conve
 * **Framework:** TensorFlow 2.x / Keras
 * **Data Analysis:** Pandas, NumPy
 * **Preprocessing:** Scikit-Learn (Train-Test Split)
-
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
